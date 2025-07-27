@@ -1,4 +1,7 @@
 # Patient-Blood-Test-Analysis-Dashboard
+<img width="1918" height="981" alt="Screenshot 2025-07-27 164101" src="https://github.com/user-attachments/assets/99eb439b-ef20-4c35-9447-ee1f9b35cb62" />
+
+
 
 ## Project Overview
 The Patient Blood Test Analysis Dashboard addresses the challenge of efficiently analyzing and interpreting large volumes of patient blood test data. By transforming raw CSV data into interactive visualizations, the dashboard empowers healthcare providers to quickly assess patient health status, identify at-risk individuals, and understand demographic health trends.
