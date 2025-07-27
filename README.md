@@ -1,5 +1,6 @@
 # Patient-Blood-Test-Analysis-Dashboard
-<img width="1918" height="981" alt="Screenshot 2025-07-27 164101" src="https://github.com/user-attachments/assets/99eb439b-ef20-4c35-9447-ee1f9b35cb62" />
+
+<img width="1139" height="691" alt="Screenshot 2025-07-27 165733" src="https://github.com/user-attachments/assets/e38c1922-9707-4018-bb23-bade844b4c42" />
 
 
 
