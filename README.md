@@ -96,12 +96,12 @@ Age Range
 
 Specific Tests (e.g., filter to only show glucose-related visuals)
 
-#### Data Source
+### Data Source
 The project utilizes patient blood test data sourced from:
 
 Patient_Blood_Test.xlsx - Sheet1.csv
 
-#### Technologies Used
+### Technologies Used
 Microsoft Power BI Desktop: For data modeling, visualization, and dashboard creation.
 
 DAX (Data Analysis Expressions): For creating custom measures and calculated columns.
